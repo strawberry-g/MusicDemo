@@ -213,7 +213,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     //-----------------------------
     //服务绑定与解除绑定的回调
-
     /**
      * 当服务与当前绑定对象，绑定成功，服务onBind方法调用并且返回之后
      * 回调给这个方法
